@@ -1,17 +1,16 @@
 # SensAI Frontend.
 
-Sens AI is a application that uses Artificial Intelligence to create lessons, create assessments and mark student assignments. 
+Sens AI is a application that uses Artificial Intelligence to create lessons, create assessments and mark student assignments. On the front end Axios is used to communicate with the backend. React and React Router DOM to create our front end. CSS and Mui are used to style the app. The link to the hosted back end and front end can be found on the above GitHub links.
 
 # Skills: 
-- SQL database.
-- Express
-- Node.JS.
-- Jest.
-- Socket.io
-- Open AI
+- Axios
+- React
+- React Router DOM
+- CSS
+- Mui
 
 # Features: 
-sensAI is a application that uses Artificial Intelligence to create lessons, create assessments and mark student assignments. The back end consists of a postgress SQL database. Express, written in Node.JS, is used to communicate with the database. Backend functionality was tested with Jest and Supertest. Socket.io is also used to facilitate communication between teachers and students. A API to Open AI is also used to produce assignments, make assignments and mark assignments. Firebase is used to authenticate user login when signing in.
+sensAI is a application that uses Artificial Intelligence to create lessons, create assessments and mark student assignments. The Front end Axios is used to communicate with the backend. React and React Router DOM to create our front end. CSS and Mui are used to style the app. The link to the hosted back end and front end can be found on the above GitHub links.
 
 This is a backend for a AI powered educational technology platform. The accompanying frontend can be found here:
 https://github.com/Poddyman0/sensAI--FE-GM
