@@ -1,4 +1,4 @@
-# SendAI Frontend.
+# SensAI Frontend.
 
 Sens AI is a application that uses Artificial Intelligence to create lessons, create assessments and mark student assignments. 
 
